@@ -1,7 +1,7 @@
 Hunspell Dictionaries
 =====================
 
-Castellanohablantes: [https://github.com/ks7000/hs-dict/Leeme.md]
+Castellanohablantes: [https://github.com/ks7000/hs-dict/blob/master/Leeme.md]
 
 This repository provides dictionary data for the spell checker *Hunspell*. Each language is separated into its own branch, where each is directly based on the `anchor` branch, plus they are all merged together in `master`. The spell checker itself is *not* included, but available at http://hunspell.sourceforge.net.
 
